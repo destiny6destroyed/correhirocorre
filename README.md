@@ -1,4 +1,4 @@
-"Corre Hiro Corre" es un juego basado en el Dinosaurio de Google
+"Corre Hiro Corre" es un fangame basado en el Dinosaurio de Google con los personajes de Disney: Miguel Rivera y Dante de Coco y Hiro Hamada y Baymax de BH6
 
 Solo no permitas que la bota alcance al chino
 
